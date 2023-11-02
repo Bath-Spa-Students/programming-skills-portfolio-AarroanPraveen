@@ -1,0 +1,13 @@
+print("name",":Aarroan",12345)
+print("fathers name",": Praveen Poyyail" , 5532)
+print('abc',"xyz",12234)
+print(13/2)
+print(13//2)
+# how to take input from the usser by default it takes string
+name =input("enter name:")
+print(name)
+name1 =input('enter your university name:')
+print(name1)
+print(name,name1)
+ans=((2*3/8+(25+3)))
+print(int(ans))
